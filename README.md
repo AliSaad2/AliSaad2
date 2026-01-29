@@ -30,5 +30,5 @@ I enjoy working close to the hardware layer and integrating it with high-level r
 ---
 
 ##  Contact
--  Email: **gfgg6787@gmail.com**
--  LinkedIn: [Ali Saad](https://www.linkedin.com/in/ali-saad-73b48922a)
+-  Email: **engalisaad03@gmail.com**
+-  LinkedIn: [Ali Saad](https://www.linkedin.com/in/engalisaad03/)
